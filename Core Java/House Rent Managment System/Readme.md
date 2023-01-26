@@ -1,4 +1,4 @@
-                                House Rent Management System
+                                                    House Rent Management System
 ## Project Description:
 The " House Rent " has been developed to overcome the problems facing in existing system.
 This software is supported to eliminate and reduce the hardships faced by this existing
