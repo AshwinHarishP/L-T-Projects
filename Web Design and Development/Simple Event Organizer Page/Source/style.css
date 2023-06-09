@@ -1,0 +1,34 @@
+
+.Top_section{
+    text-align: center;
+
+}
+.Text_heading_1{
+    font-size: 26px;
+    font-weight: bold;
+}
+.First_image{
+    height:270px;
+    width:290px;
+    margin-left: 19px;
+
+}
+.Description_section{
+    padding:10px;
+}
+.Description_heading{
+    font-size: 23px;
+}
+.Description_paragraph{
+    font-size: 17px;
+}
+.List_contents_1{
+    list-style-type: circle;
+}
+.List_contents_2{
+    list-style-type: disc;
+}
+.Mail_content{
+    font-size: 20px;
+    font-style: italic;
+}
