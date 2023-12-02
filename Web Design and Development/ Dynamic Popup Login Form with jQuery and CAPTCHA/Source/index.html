@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Popup Login Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+<div id="loginPopup">
+    <form id="loginForm">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required>
+        
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        
+        <label for="captcha">Captcha:</label>
+        <input type="text" id="captcha" name="captcha" placeholder="Enter the text above" required>
+        <span id="captchaText">ABCD123</span>
+        
+        <button type="submit">Login</button>
+    </form>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
